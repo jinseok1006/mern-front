@@ -1,0 +1,14 @@
+.paginationBlock {
+  display: inline;
+  cursor: pointer;
+  padding: 0px;
+}
+
+.pagination {
+  display: inline;
+}
+
+.paginationActive {
+  color: red;
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.block {
+  height: 700px;
+  width: 100%;
+  display: flex;
+}
+
+.textArea {
+  flex: 1;
+  resize: none;
+}
+
+.output {
+  padding: 0 30px 0px 30px;
+  width: 66%;
+}
